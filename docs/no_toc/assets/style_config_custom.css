@@ -5,7 +5,11 @@ any variables listed in style_config_default.css can be overridden by giving the
 */
 
 :root {
-    --link-color: #0b5b9d;
-    --accent-color: #012d72;
+    --link-color: #a1005a;              /* deep magenta for links */
+    --accent-color: #6e0040;            /* dark rose (headings, emphasis) */
+    --highlight-color: #e754a6;         /* vibrant pink for UI highlights */
+    --caption-color: #4a4a4a;           /* neutral dark gray */
+    --background-color: #ffffff;
+    --callout-background-color: #f6e9f1; /* soft pink-tinted gray */
   }
 
